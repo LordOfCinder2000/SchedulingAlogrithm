@@ -1,1 +1,2 @@
 # SchedulingAlogrithm
+a simple SJF
